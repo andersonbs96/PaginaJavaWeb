@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: #a5a5ff;
+    text-align: center;
+}
+.cabecalhoPagina {
+    font-size: 18px;
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+.corpoPagina {
+    font-size: 15px;
+    padding-top: 20px;
+}

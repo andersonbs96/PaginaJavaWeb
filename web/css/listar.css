@@ -1,0 +1,38 @@
+* {
+    margin: 0 auto;
+}
+table {
+    border-color: #5c5c5c;
+    border-width: 2px;
+    border-style: ridge;
+}
+.tabelaCabecalho {
+    background-color: #a5a5ff;
+    border-color: #000;
+    border-width: 2px;
+    border-style: ridge;
+}
+.tabelaCabecalho th {
+    width: 70px;
+    height: 25px;
+    text-align: center; 
+}
+.tabelaCabecalho th:nth-child(2){
+    width: 300px;
+}
+.tabelaCabecalho th:nth-child(3){
+    width: 100px;
+}
+.tabelaCabecalho th:nth-child(4){
+    width: 100px;
+}
+.tabelaCorpo {
+    text-align: center;
+}
+.tabelaCorpo a {
+    text-decoration: none;
+}
+.tabelaCorpo a:hover {
+    color: #5c5c5c;
+    text-decoration: underline;
+}

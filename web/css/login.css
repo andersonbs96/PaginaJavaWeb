@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    justify-content: center;
+    text-align: center;
+}
+
+.header {
+    background-color: #c5c5ff;
+    width: 90%;
+    height: 45px;
+    margin: 15px 30px 5px 30px;
+    padding: 10px;
+    border-color: #000;
+    border-style: double;
+    border-width: 5px;
+}
+
+.header h1 {
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+.main{
+    margin: 5px 30px;
+    width: 90%;
+    min-height: 300px;
+    height: auto;
+    display: flex;
+    padding: 10px;
+    border-color: #000;
+    border-style: double;
+    border-width: 5px;
+    text-align: center;
+}
+
+
